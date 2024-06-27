@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application API2</string>
+    <string name="create_photo">Create Photo</string>
+</resources>
